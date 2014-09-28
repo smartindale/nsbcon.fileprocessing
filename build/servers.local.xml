@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<Servers>	
+    <Server Name="SAMMARTINDA714C" DeployPath="C:\working\nsbcon\deploy" UserName="SAMMARTINDA714C\sam" Password ="Sparky01!">
+		    <Service Name="Acme.Alerts.Endpoint" Type="Independent" />
+    </Server>
+</Servers>
+   
